@@ -1,0 +1,146 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+#head-top {
+	margin-top: 8%;
+	margin-right: 30px;
+	margin-bottom: 10px;
+	margin-left: 30px;
+}
+#bg {
+   background:url(../images/bg.png);	
+}#nav-button {
+	background-image: url(../images/bg-line-btn.png);
+	height: 72px;
+	background-repeat: repeat-x;
+	padding-top: 8px;
+	padding-right: 20%;
+	padding-left: 20%;
+}
+.img-name img {
+	max-width: 250px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+#img-pizza {
+	margin-top: -6px;
+}
+#img-pizza img{
+	max-width: 640px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+#content .ui-input-search {
+	border-radius: 8px;
+}
+.alege {
+	color: #FFF;
+	text-shadow: 2px 2px 3px #000,
+	 -1px -1px 0 #000,
+	 1px -1px 0 #000,
+	 -1px 1px 0 #000,
+	 1px 1px #000000;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+.line-hoz {
+	background-color: #710000;
+	height: 2px;
+	margin-bottom: 20px;
+}
+.adresa {
+	background-color: #F19643;
+	border: 1px solid #763408;
+	border-radius: 5px;
+	margin-top: -3px;
+	margin-right: -3px;
+	margin-bottom: 5px;
+	margin-left: -3px;
+	padding: 3px;
+	text-align: center;
+}
+.orar {
+	background-color: #F19643;
+	padding: 5px;
+	border: 1px solid #763408;
+	border-radius: 5px;
+	margin-right: -3px;
+	margin-left: -3px;
+	margin-top: 5px;
+}
+.clear {
+	clear: both;
+}
+#nav-button .ui-btn, #header .ui-btn, .midle-btn .ui-btn, .description .ui-btn, .maps .ui-btn {
+    border-radius: 3px;	
+}.description {
+	background-color: #F19643;
+	border: 1px solid #763408;
+	padding: 5px;
+	border-radius: 5px;
+	margin-right: -3px;
+	margin-bottom: -3px;
+	margin-left: -3px;
+}
+#bg #menu-list {
+	margin-top: 20px;
+}
+#menu-list ul li {
+	background-color: #e2b065;
+	border-color: #953411;
+	font-size: 18px;
+	padding-bottom: 1px;
+	padding-top: 1px;
+}
+#menu-list .ui-li-desc {
+	color: #5A1607;
+	font-size: 15px;
+	text-shadow: none;
+	white-space: normal;
+}
+#menu-list .ui-li-heading {
+	font-size: 18px;
+	text-shadow: none;
+}
+#bg .list-restaurant .ui-btn {
+	border-radius: 5px;
+	margin-bottom: 2px;
+	border: 1px solid #FFFFCC;
+}
+.list-restaurant .ui-li-desc{
+	margin: 0px;
+}
+.list-restaurant .ui-li-heading{
+	margin: 0px;
+	color: #BF9348;
+	text-shadow: 1px 1px 0px #000;
+}
+#bg .ui-btn-active {
+	color: #FFFFFF !important;
+	background: none !important;
+	background-color: #F19643 !important;	
+}
+.maps {
+	margin-top: 5px;
+	max-width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+}
+p {
+	text-shadow: none;
+}
+hr {
+	border-style: dotted none none none;
+	border-top-color: #763408;
+}
+.align-center {
+	text-align: center;
+}
+#footer {
+	text-align: center;
+	margin-bottom: 10px;
+	color: #84210C;
+	text-shadow: 1px 1px #000000;
+}
